@@ -3,13 +3,12 @@
   "private": true,
   "type": "module",
   "scripts": {
-  "dev": "vite dev --port 3000",
-  "build": "vite build",
-  "start": "vinxi start"
-}
+    "dev": "vite dev --port 3000",
+    "build": "vite build",
+    "start": "vinxi start"
   },
   "dependencies": {
-    "vinxi": "^0.5.3"
+    "vinxi": "^0.5.3",
     "@content-collections/core": "^0.15.0",
     "@content-collections/markdown": "^0.1.4",
     "@content-collections/vite": "^0.3.0",
