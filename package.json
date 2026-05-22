@@ -3,8 +3,10 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "dev": "vite dev --port 3000",
-    "build": "vite build"
+  "dev": "vite dev --port 3000",
+  "build": "vite build",
+  "start": "vinxi start"
+}
   },
   "dependencies": {
     "@content-collections/core": "^0.15.0",
